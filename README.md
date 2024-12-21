@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Daniel Lubliner 👋
 
 <!--
 **daniellubliner/daniellubliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a senior at Dartmouth College studying Computer Science, Russian, and Linguistics. My interests include product design, full-stack development, binary exploitation, and usable security.
+
+🔭 I'm currently developing my portfolio site using React.js and Vite.
+
+🌱 I'm currently learning about the Global Offset Table (GOT) and Procedure Linkage Table (PLT) in ELF files.
+
+💬 Ask me about design systems and how to rapidly build complex prototypes!
+
+⚡️ Fun Fact: I started learning Russian at Dartmouth, and now I help new students learn how to speak it!
+
