@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a senior at Dartmouth College studying Computer Science, Russian, and Linguistics. My interests include product design, full-stack development, binary exploitation, and usable security.
+I'm a senior at Dartmouth College studying Computer Science and Russian. My interests include product design, full-stack development, binary exploitation, and usable security.
 
 🔭 I'm currently developing my portfolio site using React.js and Vite.
 
